@@ -1,0 +1,27 @@
+/* fonts.css */
+
+@font-face
+{
+	font-family: 'vera-humana';
+	src: url('fonts/vera-humana-b-i.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.vera-humana
+{
+	font-family: 'vera-humana' !important;
+}
+
+@font-face
+{
+	font-family: 'euro-sans-pro';
+	src: url('fonts/euro-sans-pro-i.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.euro-sans-pro
+{
+	font-family: 'euro-sans-pro' !important;
+}

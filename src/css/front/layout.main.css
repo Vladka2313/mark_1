@@ -1,0 +1,43 @@
+/* */
+
+.droid
+{
+	font-family: 'Droid Serif', serif !important;
+	font-style: italic !important;
+}
+
+div.page-container
+{
+	padding-top: 20px;
+}
+
+span.logo
+{
+	font-size: 36px !important;
+	font-weight: bold;
+	line-height: 36px;
+	color: rgb(255, 255, 255) !important;
+	text-shadow: 0 0 32px rgb(0, 0, 0) !important;
+}
+
+#search-error-container
+{
+	display: none;
+	visibility: hidden;
+	margin-bottom: -100px;
+}
+
+div.page-container
+{
+	min-height: 650px;
+}
+
+input.length
+{
+	width: 80px !important;
+}
+.google_map_style
+{
+	width:100%; 
+	height:480px;
+}

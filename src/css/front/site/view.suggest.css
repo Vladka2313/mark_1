@@ -1,0 +1,16 @@
+/* view.suggest.css */
+
+p.under-header
+{
+	margin-bottom: 40px;
+}
+
+img.captcha
+{
+	cursor: pointer;
+}
+
+button.reset
+{
+	margin: 0 2px;
+}

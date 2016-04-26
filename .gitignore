@@ -1,0 +1,9 @@
+
+src/assets/
+src/protected/config/local.php
+src/protected/runtime/
+src/themes/
+.project
+/nbproject/private/
+src/protected/yii.bat
+nbproject

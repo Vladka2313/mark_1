@@ -1,0 +1,21 @@
+/* view.tags.css */
+
+form
+{
+	margin-bottom: 12px;
+}
+
+div.input-append
+{
+	width: 90%;
+}
+
+input.field
+{
+	width: 75%;
+}
+
+p.hint
+{
+	text-indent: 25px;
+}

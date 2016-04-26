@@ -1,0 +1,21 @@
+/* */
+
+span.light
+{
+	color: rgb(225, 225, 225) !important;	
+}
+
+#text-form
+{
+	margin: 0;
+}
+
+div.input-append
+{
+	width: 100%;
+}
+
+input.field
+{
+	width: 60%;
+}
